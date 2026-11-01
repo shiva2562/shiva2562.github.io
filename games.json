@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "games": [
+    {
+      "id": "ziptrail",
+      "name": "ZipTrail",
+      "tagline": "Draw one line through every square.",
+      "bundleIds": [
+        "com.shivapps.ziptrail"
+      ],
+      "android": "https://play.google.com/store/apps/details?id=com.shivapps.ziptrail",
+      "ios": null,
+      "page": "https://apps.schwapps.com/ziptrail/",
+      "icon": "https://apps.schwapps.com/img/ziptrail/icon.webp",
+      "color": "#3D7BF4"
+    },
+    {
+      "id": "rani",
+      "name": "Rani",
+      "tagline": "One crown in every row, column and colour.",
+      "bundleIds": [
+        "com.shivapps.rani"
+      ],
+      "android": "https://play.google.com/store/apps/details?id=com.shivapps.rani",
+      "ios": null,
+      "page": "https://apps.schwapps.com/rani/",
+      "icon": "https://apps.schwapps.com/img/rani/icon.webp",
+      "color": "#8E5BD9"
+    },
+    {
+      "id": "cozy-passport",
+      "name": "Cozy Passport",
+      "tagline": "Pack every souvenir with no gaps.",
+      "bundleIds": [
+        "com.shivapps.cozypassport",
+        "com.shivapps.packthesuitcase"
+      ],
+      "android": "https://play.google.com/store/apps/details?id=com.shivapps.cozypassport",
+      "ios": null,
+      "page": "https://apps.schwapps.com/cozy-passport/",
+      "icon": "https://apps.schwapps.com/img/cozy-passport/icon.webp",
+      "color": "#E9915A"
+    },
+    {
+      "id": "shortstack",
+      "name": "ShortStack",
+      "tagline": "Flip the pancakes into a perfect stack.",
+      "bundleIds": [
+        "com.shivapps.shortstack",
+        "com.shivapps.pancakeflip"
+      ],
+      "android": "https://play.google.com/store/apps/details?id=com.shivapps.shortstack",
+      "ios": null,
+      "page": "https://apps.schwapps.com/shortstack/",
+      "icon": "https://apps.schwapps.com/img/shortstack/icon.webp",
+      "color": "#E8B04B"
+    },
+    {
+      "id": "stretchy-frog",
+      "name": "Stretchy Frog",
+      "tagline": "Stretch your tongue and hop the lily pads.",
+      "bundleIds": [
+        "com.shivapps.frogtongue"
+      ],
+      "android": "https://play.google.com/store/apps/details?id=com.shivapps.frogtongue",
+      "ios": null,
+      "page": "https://apps.schwapps.com/stretchy-frog/",
+      "icon": "https://apps.schwapps.com/img/stretchy-frog/icon.webp",
+      "color": "#4CAF50"
+    },
+    {
+      "id": "updo",
+      "name": "Updo",
+      "tagline": "Land every kanzashi in the spinning bun.",
+      "bundleIds": [
+        "com.shivapps.updo"
+      ],
+      "android": "https://play.google.com/store/apps/details?id=com.shivapps.updo",
+      "ios": null,
+      "page": "https://apps.schwapps.com/updo/",
+      "icon": "https://apps.schwapps.com/img/updo/icon.webp",
+      "color": "#C8443A"
+    },
+    {
+      "id": "numory",
+      "name": "Numory",
+      "tagline": "Memorise the numbers, then tap them in order.",
+      "bundleIds": [
+        "com.shivapps.numory"
+      ],
+      "android": null,
+      "ios": null,
+      "page": "https://apps.schwapps.com/numory/",
+      "icon": "https://apps.schwapps.com/img/numory/icon.webp",
+      "color": "#222222"
+    }
+  ]
+}
